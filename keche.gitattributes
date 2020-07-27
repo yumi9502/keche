@@ -1,2 +1,1 @@
-docs/* -linguist-documentation # documentationから除外
 docs/index.html -linguist-documentation
