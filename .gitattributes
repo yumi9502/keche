@@ -1,4 +1,2 @@
-docs/index.html -linguist-documentation
-index.html -linguist-documentation
 docs/* -linguist-vendored
 docs/* -linguist-documentation
