@@ -1,2 +1,2 @@
-docs/* linguist-documentation=false
-project-docs/* linguist-documentation=false
+docs/* -linguist-documentation
+project-docs/* -linguist-documentation
